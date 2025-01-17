@@ -10,7 +10,7 @@ Rifah Balquees
 Thanks to the following contributors:
 
 1.Nityashree - Implemented frontend and backend
-2. Aditi - Designed frontend . 
+2. Ajay - Designed frontend.
 3. Chahat  - Documentation Lead.  
 4. Varshita -comments
 5.Shreya -code reviewer
